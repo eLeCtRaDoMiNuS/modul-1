@@ -1,1 +1,1 @@
-#tamam
+print("Hello World!")
